@@ -20,7 +20,7 @@ The dashboard contains **five key visuals**:
 
       **Top 10 states** (High affordability)
       **Middle 10 states** (Average affordability)
-      **Bottom 10 states** (Low affordability)
+      **Bottom 10 states** (Low affordability) knowing htrough overall rank
    * Helps in identifying geographical trends.
 
 3. **Affordability Rate vs State (Scatter Plot)**
