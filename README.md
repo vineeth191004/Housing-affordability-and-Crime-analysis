@@ -1,7 +1,7 @@
 # 🏠 Housing Affordability & Crime Analysis Dashboard
 
 This project uses **Power BI** to visualize housing affordability and crime rates across different states, enabling data-driven insights for better decision-making.
-The dataset includes **state-level affordability, crime categories, and rankings**, allowing users to explore trends and patterns interactively.
+The dataset includes **state-level affordability, crime categories, and rankings**, allowing users to explore interactively.
 
 ---
 
